@@ -30,8 +30,8 @@
     {
       "name": "codeindex",
       "check": "codeindex version",
-      "install_url": "https://github.com/01x-in/codeindex-skills#installation",
-      "message": "codeindex CLI not found. Install: https://github.com/01x-in/codeindex-skills#installation"
+      "install_url": "https://github.com/01x-in/codeindex#installation",
+      "message": "codeindex CLI not found. Install: https://github.com/01x-in/codeindex#installation"
     },
     {
       "name": "ast-grep",

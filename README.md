@@ -1,11 +1,11 @@
 # Code Index Skills
 
-Agent skills for [Code Index](https://github.com/01x-in/codeindex-skills) — a persistent structural knowledge graph for codebases.
+Agent skills for [Code Index](https://github.com/01x-in/codeindex) — a persistent structural knowledge graph for codebases.
 
 ## Installation
 
 ```bash
-npx skills add codeindex/skills
+npx skills add 01x-in/codeindex-skills
 ```
 
 This auto-detects your AI coding agent and installs the appropriate skill file.
@@ -32,7 +32,7 @@ The skill instructs your AI coding agent to:
 
 ## Prerequisites
 
-- `codeindex` CLI installed and in PATH ([installation guide](https://github.com/01x-in/codeindex-skills#installation))
+- `codeindex` CLI installed and in PATH ([installation guide](https://github.com/01x-in/codeindex#installation))
 - `ast-grep` installed and in PATH ([installation guide](https://ast-grep.github.io/guide/quick-start.html))
 - Run `codeindex init` once in your repo to create the config and initial index.
 
